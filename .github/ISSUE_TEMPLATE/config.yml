@@ -1,0 +1,9 @@
+body:
+- type: input
+  id: color
+  attributes:
+    label: Hex Color
+    description: "What Hex color do you want?"
+    placeholder: "Example: #181a1b"
+  validations:
+    required: true

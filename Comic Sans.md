@@ -1,4 +1,4 @@
-# Dark Mode
+# Comic Sans
 
 ## Instructions
 
